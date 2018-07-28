@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  color: #11bbbb;
+  display: flex;
+  font-family: 'Kirang Haerang', cursive;
+  font-size: 80px;
+  text-align: center;
+}
+
+.card {
+  border: 10px solid #11bbbb;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 
+              0 6px 6px rgba(0,0,0,0.23);
+  padding: 10px 30px;
+}
